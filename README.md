@@ -1,6 +1,3 @@
-# job-skills-trend-analyzer
-Analyzing in demand job skills from job listing data
-
 # 🔍 Job Skills Analyzer – What's Hot in Tech Hiring
 
 A data analysis project using real LinkedIn job post data to uncover hiring trends, in-demand skills, experience levels, job types, and top locations.
